@@ -1,6 +1,6 @@
 # Retail Customer Shopping Behaviour Analysis
 ## Dashboard Preview
-
+![Retail Customer Shopping Behaviour Dashboard](Dashboard.png)
 ## Project Summary
 
 This project analyses retail customer shopping behaviour to help businesses improve sales performance, customer engagement, customer loyalty, and marketing effectiveness.
