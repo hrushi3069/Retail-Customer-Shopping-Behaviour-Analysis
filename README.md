@@ -1,4 +1,5 @@
 # Retail Customer Shopping Behaviour Analysis
+## Dashboard Preview
 
 ## Project Summary
 
@@ -92,12 +93,6 @@ The following business questions were explored using SQL:
 - Product Category
 - Shipping Type
 - Payment Method
-
-## Dashboard Preview
-
-_Add your Power BI dashboard screenshot to the repository and insert its relative path below._
-
-<!-- Example: ![Retail Customer Shopping Behaviour Dashboard](images/dashboard.png) -->
 
 ## Tools & Technologies
 
